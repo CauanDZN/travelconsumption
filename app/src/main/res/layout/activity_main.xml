@@ -20,7 +20,7 @@
         android:gravity="center"
         />
     <EditText
-        android:id="@+id/editDistancia"
+        android:id="@+id/editDistance"
         android:layout_width="match_parent"
         android:layout_height="50dp"
         android:hint="@string/editDistance"

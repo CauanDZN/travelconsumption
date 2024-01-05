@@ -10,4 +10,6 @@
     <string name="textAns">SEU GASTO TOTAL SERÁ DE:</string>
     <string name="labelResult">R$ 0</string>
     <string name="buttonCalculate">Calcular</string>
+    <string name="validationAllFields">Preencha todos os campos</string>
+    <string name="validationAutonomy">Não existe divisão por zero.</string>
 </resources>
