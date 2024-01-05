@@ -1,4 +1,4 @@
-package com.cauandzn.travelconsuption
+package com.cauandzn.travelconsumption
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("com.cauandzn.travelconsuption", appContext.packageName)
+        assertEquals("com.cauandzn.travelconsumption", appContext.packageName)
     }
 }

@@ -1,4 +1,4 @@
-package com.cauandzn.travelconsuption
+package com.cauandzn.travelconsumption
 
 import org.junit.Test
 

@@ -1,10 +1,10 @@
-package com.cauandzn.travelconsuption
-
+package com.cauandzn.travelconsumption
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import android.view.View
 import android.widget.Toast
-import com.cauandzn.travelconsuption.databinding.ActivityMainBinding
+import com.cauandzn.travelconsumption.databinding.ActivityMainBinding
+
 
 class MainActivity : AppCompatActivity(), View.OnClickListener {
     private lateinit var binding: ActivityMainBinding

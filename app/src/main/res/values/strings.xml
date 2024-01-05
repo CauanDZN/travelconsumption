@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">TravelConsuption</string>
+    <string name="app_name">Travel Consumption</string>
     <string name="textHeader">Aplicativo para calcular o consumo de viagens</string>
     <string name="editDistance">Distância</string>
     <string name="totalKm">Total em Quilômetros</string>

@@ -4,11 +4,11 @@ plugins {
 }
 
 android {
-    namespace = "com.cauandzn.travelconsuption"
+    namespace = "com.cauandzn.travelconsumption"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.cauandzn.travelconsuption"
+        applicationId = "com.cauandzn.travelconsumption"
         minSdk = 26
         targetSdk = 34
         versionCode = 1
